@@ -28,7 +28,7 @@ This enables HR to take proactive steps in addressing potential retention challe
 
 ![image](https://github.com/user-attachments/assets/87e4a4a3-410f-48a2-a8a8-c38eb0b4b7bf)
 
-## VII. Visualization
+## VII. Conclusion
 Overall, this dashboard will help HR teams:
 1) Better allocate resources
 
