@@ -20,11 +20,15 @@ The Departure Analysis section identifies employees at high risk of leaving, bas
 This enables HR to take proactive steps in addressing potential retention challenges with targeted strategies.
 
 ## VI. Visualization
-### 1. Executive Summary
+### 1. Entity Relationship Diagram Model
+
+![image](https://github.com/user-attachments/assets/bf02adf8-835c-48ec-a2ec-c6a2de41b207)
+
+### 2. Executive Summary
 
 ![image](https://github.com/user-attachments/assets/6969d949-ebf2-4891-9d29-c7eece957651)
 
-### 2. Workforce Database
+### 3. Workforce Database
 
 ![image](https://github.com/user-attachments/assets/87e4a4a3-410f-48a2-a8a8-c38eb0b4b7bf)
 
