@@ -26,7 +26,7 @@ This enables HR to take proactive steps in addressing potential retention challe
 
 ### 2. Executive Summary
 
-![image](https://github.com/user-attachments/assets/6969d949-ebf2-4891-9d29-c7eece957651)
+![image](https://github.com/user-attachments/assets/61b967eb-8388-463e-a59d-5b68915cec61)
 
 ### 3. Workforce Database
 
