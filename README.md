@@ -6,6 +6,10 @@ I’ve developed a data analytics solution that enables HR teams to make more in
 
 👉 This tailored solution equips HR professionals and managers with the tools they need to make data-driven decisions in areas like workforce planning, employee engagement, and talent management strategies.
 
+## II. Design Thinking Method
+
+
+
 ## VI. Visualization
 ### 1. Entity Relationship Diagram Model
 
