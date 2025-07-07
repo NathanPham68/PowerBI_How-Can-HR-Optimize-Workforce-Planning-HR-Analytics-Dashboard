@@ -1,10 +1,10 @@
 # [POWER BI] HR Analytics Power BI Dashboard
 ## I. Introduction
-I’ve developed a comprehensive data analytics solution designed to support HR teams in making more informed workforce planning decisions.
+This project is focused on creating a comprehensive HR Workforce Dashboard to help the organization track, analyze, and optimize important human resource metrics. By utilizing employee-level data, such as salary, tenure, absence, performance, and demographics, the dashboard provides insights that support evidence-based decision-making for talent management, employee engagement, and retention strategies.
 
-👉 A custom-built solution like this empowers HR professionals and managers to make data-driven decisions regarding workforce planning, employee engagement, and talent management strategies.
+I’ve developed a data analytics solution that enables HR teams to make more informed decisions when it comes to workforce planning.
 
-
+👉 This tailored solution equips HR professionals and managers with the tools they need to make data-driven decisions in areas like workforce planning, employee engagement, and talent management strategies.
 
 ## VI. Visualization
 ### 1. Entity Relationship Diagram Model
