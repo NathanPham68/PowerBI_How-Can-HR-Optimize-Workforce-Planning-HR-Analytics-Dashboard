@@ -1,4 +1,5 @@
-# [POWER BI] HR Analytics Power BI Dashboard
+# [POWER BI] How Can HR Optimize Workforce Planning? - HR Analytics Dashboard
+
 ## I. Introduction
 This project is focused on creating a comprehensive HR Workforce Dashboard to help the organization track, analyze, and optimize important human resource metrics. By utilizing employee-level data, such as salary, tenure, absence, performance, and demographics, the dashboard provides insights that support evidence-based decision-making for talent management, employee engagement, and retention strategies.
 
