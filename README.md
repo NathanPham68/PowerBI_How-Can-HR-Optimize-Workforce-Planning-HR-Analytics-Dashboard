@@ -30,15 +30,46 @@ I’ve developed a data analytics solution that enables HR teams to make more in
 
 ### 2. Executive Summary
 
-![image](https://github.com/user-attachments/assets/61b967eb-8388-463e-a59d-5b68915cec61)
+<img width="1400" height="826" alt="image" src="https://github.com/user-attachments/assets/93bdf45b-be10-4536-b024-86db79a14cd8" />
 
-The Executive Summary page provides a high-level overview of the organization’s workforce health and key HR performance metrics. It tracks essential KPIs such as total headcount, salary expenses, turnover rate, average tenure, absence rate, satisfaction score, and average employee age. Visual breakdowns highlight workforce demographics — including gender and age distributions — and the main reasons for employee departures. In addition, turnover rates are shown by department, enabling leaders to pinpoint areas with higher attrition. This page helps senior management monitor trends, evaluate workforce stability, and make informed strategic decisions to improve retention and engagement.
+* Total Workforce: 311 employees with total salary expenses of $21M.
+
+* Turnover Rate: 33.44%, a relatively high figure indicating potential retention issues.
+
+* Average Tenure: 12.31 years, suggesting long-term employee stability for certain roles.
+
+* Absence Rate: Low at 0.23%, indicating consistent attendance.
+
+* Satisfaction Score: 3.89 out of 5, showing moderate employee contentment.
+
+* Average Age: 46.5 years, pointing to a mature workforce.
+
+* Age Distribution: Majority are aged 35–44 (139 employees), followed by 45–54 (92 employees). Very few in the 25–34 group, signaling limited young talent inflow.
+
+* Gender Distribution: Slightly more females (56.59%) than males (43.41%).
+
+* Turnover by Department: Highest in Production (39.71%) and Admin Offices (30%), lowest in Sales (16.13%).
+
+* Departure Reasons: Top three – “Another position” (20 cases), “Unhappy” (14 cases), and “More money” (11 cases).
 
 ### 3. Workforce Database
 
-![image](https://github.com/user-attachments/assets/87e4a4a3-410f-48a2-a8a8-c38eb0b4b7bf)
+<img width="1400" height="826" alt="image" src="https://github.com/user-attachments/assets/bda10a4f-8b7c-4114-88bc-fff87a95722d" />
 
-The Workforce Database page presents a comprehensive view of individual employee records. It consolidates detailed information such as employee names, positions, salaries, tenure, absence rates, satisfaction scores, recruitment sources, gender, marital status, performance ratings, retention risks, ethnicity, and employment status. This centralized database supports in-depth analysis of workforce composition, helps identify high-risk employees who may require retention efforts, and ensures HR teams have the data needed for proactive talent management and workforce planning.
+| **Field** | **Style** |
+|--------------|-------------|
+| **Satisfaction score** | - If 0 <= value <= 3 then ❎<br> - If 3 < value <= 4 then ❗<br> - If 4 < value <= 5 then ✅ |
+| **Retention Risk** | - If value is High then ❎<br> - If value is Medium then ❗<br> - If value is Low then ✅ |
+
+* High Earners: Top salaries belong to executives and IT leaders, with Janet King (President & CEO) earning $250,000.
+
+* Retention Risk: Most employees have low retention risk, but a few — such as Peter Monroe (IT Manager) — have a high risk due to low satisfaction and “Needs Improvement” performance.
+
+* Satisfaction Trends: Scores range from 3.0 to 5.0. Low scores are often paired with medium-to-high retention risks.
+
+* Recruitment Sources Impact: Certain recruitment channels (e.g., Employee Referral, Indeed) are linked to both high and low satisfaction outcomes, indicating that hiring source alone is not a guarantee of engagement.
+
+* Employment Status: Includes a mix of active employees, voluntary terminations, and terminations for cause — suggesting the need for consistent retention monitoring.
 
 ## IV. Insights
 Key insights derived include:
