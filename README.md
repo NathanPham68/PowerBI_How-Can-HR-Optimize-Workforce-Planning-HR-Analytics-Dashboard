@@ -71,18 +71,14 @@ I’ve developed a data analytics solution that enables HR teams to make more in
 
 * Employment Status: Includes a mix of active employees, voluntary terminations, and terminations for cause — suggesting the need for consistent retention monitoring.
 
-## IV. Insights
-Key insights derived include:
-* The turnover rate is relatively high (33.44%), with Production and Admin Offices showing the highest rates.
-* The average tenure is 12.31 years, indicating relatively stable long-term employees.
-* Female employees make up 56.59% of the workforce, with most staff between ages 35–44.
-* The main departure reasons are “Another position,” “Unhappy,” and “More money.”
-* Certain employees have low satisfaction scores and high retention risks, highlighting areas for immediate intervention.
+## IV. Insights & Recommendations
 
-## V. Recommendations
-Based on the analysis, the project recommends:
-* Implement targeted retention strategies for departments with high turnover.
-* Address top departure reasons with competitive compensation, career growth opportunities, and improved engagement initiatives.
-* Monitor employees flagged as high-risk and develop personalized retention plans.
-* Continue tracking demographic trends to strengthen diversity and inclusion goals.
-* Regularly update and review the dashboard to ensure it remains aligned with evolving HR priorities.
+| **Metrics** | **Insight** | **Recommendation** |
+|--------------|-------------|--------------------|
+| **1. Employee Turnover Risk** | - Length of service appears to have a strong correlation with job satisfaction and retention. Employees in the 1–3 year range are more likely to leave compared to long-tenured staff. | - Implement stay interviews to capture employee concerns before they resign.<br> - Introduce career pathing programs and ensure every employee has a clear 12–18 month development plan.<br> |
+| **2. Performance Distribution** | - While top performers are present in all departments, there is a concentration of lower performance ratings in roles with less training investment.<br> - Performance gaps often align with inadequate onboarding and skills development programs. | - Increase investment in role-specific training, particularly for underperforming groups.<br> - Launch peer mentorship programs to transfer skills from high performers to less experienced staff. |
+| **3. Compensation & Benefits Alignment** | - Benefits usage data indicates employees are either unaware of certain offerings or find them misaligned with their real needs. | - Adjust salary bands annually based on market trends and performance contribution.<br> - Review benefits packages to align with employee needs (e.g., flexible working, mental health support). |
+| **4. Leadership & Engagement** | - Employee satisfaction is significantly higher in departments with visible, communicative leadership.<br> - Lack of regular feedback loops is a recurring issue, especially in larger teams where employees feel disconnected from decision-making. | - Increase skip-level meetings where senior leaders interact directly with employees.<br> - Foster a culture of continuous feedback using quick pulse surveys and regular check-ins. |
+
+
+
